@@ -1,0 +1,17 @@
+{
+    "name": "elsieswashcaps-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Alejandro Inler"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/elsieswashcaps-bower.git"
+    },
+    "description": "Elsie Swash Caps font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
